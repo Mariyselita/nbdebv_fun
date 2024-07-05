@@ -5,5 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://Mariyselita.github.io',
                 'git_url': 'https://github.com/Mariyselita/nbdebv_fun',
                 'lib_path': 'nbdebv_fun'},
-  'syms': { 'nbdebv_fun.cluster_ejemplo': {'nbdebv_fun.cluster_ejemplo.foo': ('core.html#foo', 'nbdebv_fun/cluster_ejemplo.py')},
-            'nbdebv_fun.core': {'nbdebv_fun.core.foo': ('core.html#foo', 'nbdebv_fun/core.py')}}}
+  'syms': { 'nbdebv_fun\\cluster_ejemplo': {'nbdebv_fun\\cluster_ejemplo.foo': ('core.html#foo', 'nbdebv_fun\\cluster_ejemplo.py')},
+            'nbdebv_fun\\core': {'nbdebv_fun\\core.foo': ('core.html#foo', 'nbdebv_fun\\core.py')}}}
